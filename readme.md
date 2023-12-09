@@ -1,10 +1,8 @@
-# AI Junior Developer (Intern) Test 
-Welcome! and thank you for applying! 
-
+# Science Chatbot
 
 ## Architecture
 
-1. Using Science-Wikipedia.pdf as data source
+1. Using `Science - Wikipedia.pdf` as data source.
 2. Dividing `pdf` into chunks.
 3. Created `VectorDB`.
 4. Embed `query`, on top of that apply `cosine similarity` followed by `cross encoder reranking`.
